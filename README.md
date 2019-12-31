@@ -1,2 +1,1 @@
-# loversugar.github.io
-个人博客仓库
+个人博客，用于记录学习中的点滴
